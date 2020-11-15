@@ -1,0 +1,147 @@
+body {
+
+    background-image: url(media/ecopetit.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+label {
+    font-family: arial;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 900;
+    background: #555;
+    padding-right: 5px;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    border-bottom: 2px solid white;
+}
+
+input {
+    border: 1px solid red;
+    text-align: center;
+    border-radius: 5px;
+    background: #ddd;
+    transition: margin-left 1s cubic-bezier(0.49, 0.03, 0, 1.35);
+
+
+}
+
+input[type=radio] {
+    color: white;
+    background: green;
+    border-bottom: 2px solid white;
+}
+
+
+
+
+input[type=submit] {
+    background: green;
+    padding: 0px 10px;
+    color: white;
+    border: 2px solid green;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+
+
+input[type=reset] {
+    background: black;
+    padding: 0px 10px;
+    color: white;
+    border: 2px solid blue;
+    font-family: arial;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+input:hover {
+    background: #e8dc43;
+    margin-left: 20px;
+}
+
+
+input[type=submit]:hover {
+    background: #24de24;
+    margin-left: 20px;
+}
+
+
+
+input[type=reset]:hover {
+    background: red;
+    margin-left: 20px;
+}
+
+
+video {
+    margin-left: 266px;
+
+
+}
+
+
+audio {
+    margin-left: 266px;
+
+}
+
+button {
+    padding: 15px;
+    background: #ef3b3b;
+    width: 238px;
+    color: white;
+    font-size: 15px;
+    font-weight: 900;
+    border-radius: 84px 0px 84px 0px;
+    border: 7px solid rgba(255, 0, 0, 0.79);
+    transition: background .6s ease-in;
+    transition: margin .6s ease-in;
+    text-align: center
+}
+
+button:hover {
+    cursor: grab;
+    background: #1a1419;
+    margin-left: 30px
+}
+
+
+fieldset {
+    background: rgba(44, 12, 42, 0.65);
+    width: 604px;
+    margin: auto;
+    border: 5px solid white;
+    border-radius: 5px;
+
+}
+
+
+
+legend {
+
+    color: white;
+    font-family: arial;
+    text-shadow: #555 1px 2px 2px;
+    font-weight: 900;
+    font-size: 20px
+}
+
+
+
+
+select option{
+    
+    text-transform: uppercase;
+    
+}
+
+
+
