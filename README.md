@@ -5,4 +5,4 @@ STYLISH FROM DESIGN
 তারিখঃ ০৫/০৯/২০২০ইং।
 
 সাইটটি ভিজিট করার জন্যএই লিংক।
-https://rakibulofficialbd.github.io/rakibulpracticesite4/
+https://rhprofile.github.io/rakibulpracticesite4/
